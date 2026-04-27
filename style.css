@@ -1,0 +1,9 @@
+@font-face {
+    font-family: sekuya;
+    src: url("./Sekuya-Regular.ttf");
+}
+h1{
+    background-color: blueviolet;
+    font-family: sekuya;
+    color: antiquewhite;
+}
